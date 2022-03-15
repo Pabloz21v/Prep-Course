@@ -1,0 +1,11 @@
+.divClass > h1 {color:crimson;}
+            #thirdDiv>ul>li>img {width:400px}
+            #thirdDiv {
+                width: 500px; 
+                height: 600px; 
+                background-color: rgb(58, 95, 216); 
+                padding: 50px; 
+                border: dashed rgb(0, 255, 128);}
+            #spanId {
+                font-size: 18px; 
+                margin: 50px;}
